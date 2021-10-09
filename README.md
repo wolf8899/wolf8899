@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wolf8899
-- 👀 I’m interested in unify communication.
-- 🌱 I’m currently learning webRTC and OpenStack.
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning software developing.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me? my email:tianye2007@sina.com
 
